@@ -1,0 +1,3 @@
+¿PORQUÉ SE UTILIZÓ EL PATRÓN ITERATOR?
+    * Porque permite recorrer una Collection de objetos.
+    * La clase, en este caso el Main, no  necesita saber cómo están almacenados esos objetos.
